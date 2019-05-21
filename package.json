@@ -1,0 +1,20 @@
+{
+  "name": "firefox-fresh",
+  "version": "0.1.0",
+  "description": "Firefox Fresh 🔥🦊",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyyyl/firefox-fresh"
+  },
+  "author": "Dyl 🦊",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-firefox": "^0.5.0"
+  }
+}
